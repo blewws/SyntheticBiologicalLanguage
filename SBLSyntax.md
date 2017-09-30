@@ -28,10 +28,10 @@
 * **Definition 7**
 	Operator: An operator is a DNA sequence that binds to a specific transcription factor, 
 	triggering or repressing transcription. It "checks" for the existence of a transcription factor.
-	Analogous to 'if' statement. 
+	Analogous to 'if' statement.  
 * **Definition 8**
 	Transcription factor: Binds to a specific promoter, triggering transcription. 
-	TFs are what is being checked for following an 'if' statement. Can be an enhancer (presence triggers transcription) or
+	TFs are what is being checked for following an 'if' statement. Can be an activator (presence triggers transcription) or
 	a repressor (preesence represses transcription).
 * **Definition 9**
 	Transcribe: Function that places a gene sequence, surrounded by a start and stop codon, following the promoter.
