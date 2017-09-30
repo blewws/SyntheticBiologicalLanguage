@@ -6,7 +6,7 @@
 * Added new definition for promoter (definition 10).
 * Changed DNA format from [PROMOTER][START][GENE][STOP] to [OPERATOR][PROMOTER][START][GENE][STOP][TERMINATOR]
 
-
+**Dictionary**
 * **Definition 1**
 	Operon: An operon is a functional unit of code/DNA. 
 	The format appears like this: [OPERATOR][PROMOTER][START][GENE][STOP][TERMINATOR]
